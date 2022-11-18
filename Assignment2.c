@@ -1,7 +1,7 @@
 /* 
 TU856 / 1 - PROGRAMMING ASSIGNMENT 2
 
-Author: Paulina Czarnota C21365726
+Author: Paulina Czarnota 
 
 Submission Date: 18/03/2022
 
