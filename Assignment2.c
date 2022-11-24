@@ -227,7 +227,7 @@ void section_1(int *numbers, int *freq)
         
         *(freq + temp) = *(freq + temp) + 1; // This gets incremented to determine how many times a certain number has been inputted by the user during the game.
     } // end for
-} // end function secttion_1
+} // end function section_1
 
 // This implements function section_2. 
 // This function displays the Lotto numbers entered by the user. 
