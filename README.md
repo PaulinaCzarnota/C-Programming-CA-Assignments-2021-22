@@ -1,4 +1,4 @@
-Two C Programming assignments completed in the first year of Computer Science at TU Dublin.
+Two C Programming CA assignments completed in the first year of Computer Science at TU Dublin.
 
 Assignment 1 - Grade Received: 70%
 
