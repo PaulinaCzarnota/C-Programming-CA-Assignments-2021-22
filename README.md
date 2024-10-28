@@ -1,6 +1,6 @@
 This repository contains two C programming assignments completed during my first year of Computer Science studies at TU Dublin.
 
-## Assignment Overview
+# Assignments Overview
 
 ### Assignment 1: Mathematics Quiz Game  
   
